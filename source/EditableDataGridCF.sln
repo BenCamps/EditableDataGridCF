@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditableDataGridCF", "EditableDataGridCF\EditableDataGridCF.csproj", "{90130580-4756-47BD-ACFC-8F20E1B48477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditableDataGridCF.UITest", "EditableDataGridCF.UITest\EditableDataGridCF.UITest.csproj", "{64F23BCB-CC58-4D54-B8D9-794E4B9D4461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90130580-4756-47BD-ACFC-8F20E1B48477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90130580-4756-47BD-ACFC-8F20E1B48477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90130580-4756-47BD-ACFC-8F20E1B48477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90130580-4756-47BD-ACFC-8F20E1B48477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F23BCB-CC58-4D54-B8D9-794E4B9D4461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F23BCB-CC58-4D54-B8D9-794E4B9D4461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F23BCB-CC58-4D54-B8D9-794E4B9D4461}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{64F23BCB-CC58-4D54-B8D9-794E4B9D4461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F23BCB-CC58-4D54-B8D9-794E4B9D4461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F23BCB-CC58-4D54-B8D9-794E4B9D4461}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
