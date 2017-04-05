@@ -6,7 +6,7 @@ EditableDataGridCF makes use of the `KeyPressDispatcher` class and `IKeyPressPro
 The purpose of the `KeyPressDispatcher` class is to work with your `Form` to find and notify any focused control that implements `IKeyPressProcssor` of any key event; 
 Taking advantage of the fact when a `Form` class had `KeyPreview = true` it is able to intercept key presses that may normaly be swallowed by the control.
 
-Besure to check the issues for this project as there are some.
+Be sure to check the issues for this project as there are some.
 
 
 
