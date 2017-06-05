@@ -324,8 +324,7 @@ namespace EditableDataGridCF
             var col = CurrentCollumn as EditableColumnBase;
 
             if (col == null
-                || !IsColumnDisplayable(col)
-                || col.ReadOnly) { return; }
+                || !IsColumnDisplayable(col)) { return; }
 
             try
             {

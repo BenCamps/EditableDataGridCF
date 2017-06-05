@@ -173,7 +173,6 @@ namespace EditableDataGridCF
                     _orgValue = value;
                     this.NotifyCellValueChanged();
                 }
-                EndEdit();
             }
             catch
             {
